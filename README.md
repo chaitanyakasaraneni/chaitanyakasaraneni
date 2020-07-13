@@ -4,9 +4,10 @@ I am a Computer Engineering Graduate Student at San Jose State University.
 
 - :computer: I code using Python
 - 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on Machine Learning Open Source Projects
+- 👯 I’m looking to collaborate on Machine Learning Open Source Projects<br>
 - 📫 How to reach me: [Telegram](https://t.me/chaitanya_kasaraneni)
 - 😄 Pronouns: He/Him
+- :page_with_curl: Blog: [Medium](https://medium.com/@chaitanya_kasaraneni)
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/leticiacamposs2)](https://github.com/chaitanyakasaraneni)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leticiacamposs/)](https://linkedin.com/in/chaitanyakasaraneni)
