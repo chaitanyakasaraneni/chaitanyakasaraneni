@@ -13,7 +13,7 @@ I am a Computer Engineering Graduate Student at San Jose State University.
 
 <hr>
 <p align="center">
-  <i>Can connect with me here!</i>
+  <i>You can connect with me here!</i>
 
   <p align="center">
     <a href="https://twitter.com/chaitanya_kck" alt="Twitter"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a>
@@ -25,6 +25,5 @@ I am a Computer Engineering Graduate Student at San Jose State University.
   </p>
 
 </p>
-</hr>
 
 :eyes: ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fchaitanyakasaraneni) 
