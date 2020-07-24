@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello World! 👋
 
-I am a Computer Engineering Graduate Student at San Jose State University. 
+I am **Chaitanya Krishna Kasaraneni**, a Computer Engineering Graduate Student at San Jose State University. 
 
 - :computer: I code using Python
 - 🌱 I’m currently learning and developing Python based ML Projects
