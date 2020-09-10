@@ -21,7 +21,7 @@ I am **Chaitanya Krishna Kasaraneni**, a Computer Engineering Graduate Student a
     <a href="https://github.com/chaitanyakasaraneni" alt="GitHub"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
     <a href="https://dev.to/chaitanyakasaraneni" alt="Dev"><img height="32" width="32" src="https://github.com/chaitanyakasaraneni/chaitanyakasaraneni/blob/master/icons/dev-icon.svg" /></a>
     <a href="https://medium.com/@chaitanya_kasaraneni" alt="Medium"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /></a>
-
+    <a href="https://chaitanyak.me/" alt="Personal Website"><img height="32" width="32" src="https://github.com/chaitanyakasaraneni/chaitanyakasaraneni/blob/master/icons/resume.svg" /></a>
   </p>
 
 </p>
