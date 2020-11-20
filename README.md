@@ -13,7 +13,7 @@ I am **Chaitanya Krishna Kasaraneni**, a Computer Engineering Graduate Student a
 
 <hr>
 <p align="center">
-  <i>You can connect with me here!</i>
+  <i>Let's be social!</i>
 
   <p align="center">
     <a href="https://twitter.com/chaitanya_kck" alt="Twitter"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a>
