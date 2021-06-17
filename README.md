@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-I am **Chaitanya Krishna Kasaraneni**, a Data Science Intern at Predmatic AI.
+I am **Chaitanya Krishna Kasaraneni**, a Data Science Intern at [Predmatic AI](https://www.predmatic.ai).
 
 - :school: Computer Engineering Graduate from San Jose State University. 
 - :computer: I code using Python
