@@ -1,7 +1,8 @@
 ### Hello World! 👋
 
-I am **Chaitanya Krishna Kasaraneni**, a Computer Engineering Graduate Student at San Jose State University. 
+I am **Chaitanya Krishna Kasaraneni**, a Data Science Intern at Predmatic AI.
 
+- :school: Computer Engineering Graduate from San Jose State University. 
 - :computer: I code using Python
 - 🌱 I’m currently learning and developing Python based ML Projects
 - 👯 I’m looking to collaborate on Machine Learning Open Source Projects<br>
