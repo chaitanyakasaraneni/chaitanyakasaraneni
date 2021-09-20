@@ -1,10 +1,9 @@
 ### Hello World! 👋
 
-I am **Chaitanya Krishna Kasaraneni**, a Data Science Intern at [Predmatic AI](https://www.predmatic.ai).
+I am **Chaitanya Krishna Kasaraneni**, Associate Software Engineer - Data Team @ [Egen Solutions](https://egen.solutions/).
 
 - :school: Computer Engineering Graduate from San Jose State University. 
 - :computer: I code using Python
-- 🌱 I’m currently learning and developing Python based ML Projects
 - 👯 I’m looking to collaborate on Machine Learning Open Source Projects<br>
 - 😄 Pronouns: He/Him
 
