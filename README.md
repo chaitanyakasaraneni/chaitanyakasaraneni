@@ -3,7 +3,7 @@
 I am **Chaitanya Krishna Kasaraneni**, Associate Software Engineer - Data Team @ [Egen Solutions](https://egen.solutions/).
 
 - :school: Computer Engineering Graduate from San Jose State University. 
-- :computer: I code using Python
+- :computer: I code using Python, JavaScript, TypeScript
 - 👯 I’m looking to collaborate on Machine Learning Open Source Projects<br>
 - 😄 Pronouns: He/Him
 
