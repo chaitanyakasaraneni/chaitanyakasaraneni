@@ -4,7 +4,7 @@ I am **Chaitanya Krishna Kasaraneni**, Associate Software Engineer - Data Team @
 
 - :school: Computer Engineering Graduate from San Jose State University. 
 - :computer: I code using Python, JavaScript, TypeScript
-- 👯 I’m looking to collaborate on Machine Learning Open Source Projects<br>
+- 👯 I’m open to collaborate on Data Engineering/Machine Learning Open Source Projects<br>
 - 😄 Pronouns: He/Him
 
 <p align="center">
