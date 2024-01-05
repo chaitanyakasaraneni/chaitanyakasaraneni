@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-I am **Chaitanya Krishna Kasaraneni**, Associate Software Engineer - Data Team @ [Egen Solutions](https://egen.ai/).
+I am **Chaitanya Krishna Kasaraneni**, Associate Software Engineer - Data Team @ [Egen](https://egen.ai/).
 
 - :school: Computer Engineering Graduate from San Jose State University. 
 - :computer: I code using Python, JavaScript, TypeScript
