@@ -19,7 +19,7 @@ I am **Chaitanya Krishna Kasaraneni**, Software Engineer - Data @ [Egen](https:/
     <a href="https://www.linkedin.com/in/chaitanyakasaraneni" alt="Linkedin"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
     <a href="https://github.com/chaitanyakasaraneni" alt="GitHub"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
     <a href="https://medium.com/@chaitanya_kasaraneni" alt="Medium"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /></a>
-    <a href="https://chaitanyak.me/" alt="Personal Website"><img height="32" width="32" src="https://github.com/chaitanyakasaraneni/chaitanyakasaraneni/blob/master/icons/resume.svg" /></a>
+    <a href="https://ckasaraneni.com/" alt="Personal Website"><img height="32" width="32" src="https://github.com/chaitanyakasaraneni/chaitanyakasaraneni/blob/master/icons/resume.svg" /></a>
   </p>
 
 </p>
