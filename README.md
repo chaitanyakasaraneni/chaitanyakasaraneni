@@ -7,9 +7,6 @@ I am **Chaitanya Krishna Kasaraneni**, Software Engineer - Data @ [Egen](https:/
 - 👯 I’m open to collaborating on Data Engineering/Machine Learning Open Source Projects<br>
 - 😄 Pronouns: He/Him
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chaitanyakasaraneni&show_icons=true">
-</p>
 
 <hr>
 <p align="center">
