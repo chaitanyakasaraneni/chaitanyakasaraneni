@@ -2,7 +2,7 @@
 
 # Chaitanya Krishna Kasaraneni
 
-**Data Engineer · ML Enthusiast**
+**Data Engineer · Cloud Infrastructure · Open Source · Machine Learning**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Building+scalable+data+pipelines;Turning+raw+data+into+insights;Open+to+Data+%2F+ML+collaborations)](https://git.io/typing-svg)
 
@@ -49,6 +49,17 @@ Software Engineer — Data at **[Egen](https://egen.ai/)**, building robust data
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+---
+
+## Recently shipped
+
+**[cloudfit](https://github.com/cloudfit-io)** — a cloud-agnostic machine type recommender for batch and bioinformatics workloads. Scores instances across providers from a single workload spec, with explainable ranking and no cloud credentials required.
+
+- Engine: [`cloudfit-core`](https://github.com/cloudfit-io/cloudfit-core) ([PyPI](https://pypi.org/project/cloudfit-core/))
+- Provider: [`cloudfit-provider-gcp`](https://github.com/cloudfit-io/cloudfit-provider-gcp)
+- REST API: [`cloudfit-api`](https://github.com/cloudfit-io/cloudfit-api)
+- Read the launch post: [Why I built cloudfit](https://ckasaraneni.com/blog/why-i-built-cloudfit)
 
 ---
 
