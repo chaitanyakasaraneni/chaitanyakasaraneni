@@ -67,6 +67,26 @@ Software Engineer — Data at **[Egen](https://egen.ai/)**, building robust data
 
 <table>
   <tr>
+    <td colspan="2">
+      <h3>cloudfit</h3>
+      <p>Cloud-agnostic machine type recommender for batch and bioinformatics workloads. Scores instances across providers from a single workload spec.</p>
+      <a href="https://github.com/cloudfit-io">
+        <img src="https://img.shields.io/badge/View_Org-181717?style=flat-square&logo=github&logoColor=white" />
+      </a>
+      <a href="https://github.com/cloudfit-io/cloudfit-core">
+        <img src="https://img.shields.io/badge/cloudfit--core-181717?style=flat-square&logo=github&logoColor=white" />
+      </a>
+      <a href="https://chaitanyakasaraneni-cloudfit-api.hf.space/docs">
+        <img src="https://img.shields.io/badge/Live_API-FF9900?style=flat-square&logo=fastapi&logoColor=white" />
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Apache_2.0-D22128?style=flat-square&logo=apache&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>clinops</h3>
       <p>Clinical ML Pipeline Toolkit — bridges raw clinical data and production-ready ML pipelines.</p>
